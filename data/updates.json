@@ -1,0 +1,36 @@
+{
+  "site": "S9 Compare Index",
+  "date": "2026-06-13",
+  "items": [
+    {
+      "title": "Account wallet support cluster added",
+      "date": "2026-06-13",
+      "pages": [
+        "blog/s9-support-pages-vs-competitors",
+        "blog/s9-deposit-withdraw-comparison-map"
+      ]
+    },
+    {
+      "title": "Register/login cluster added",
+      "date": "2026-06-13",
+      "pages": [
+        "blog/s9-register-pages-competitor-gap",
+        "blog/s9-login-pages-competitor-gap",
+        "blog/register-login-content-map"
+      ]
+    },
+    {
+      "title": "Long-tail content sprint published",
+      "date": "2026-06-13",
+      "pages": [
+        "blog/s9-game-alternative-checklist",
+        "blog/s9-vs-b9-register-path",
+        "blog/download-site-comparison-notes"
+      ]
+    },
+    {
+      "title": "V4 independent design generated",
+      "date": "2026-06-12"
+    }
+  ]
+}
