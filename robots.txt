@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Sitemap: https://s9gameonlinepk.com/sitemap.xml
+
+User-agent: *
+User-agent: *
+User-agent: *
+User-agent: *
+User-agent: *
