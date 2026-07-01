@@ -1,0 +1,81 @@
+id,keyword,intent,priority,page_type,target_page,last_modified,source
+1,s9 game online Pakistan,core,P1,homepage/pillar,/,2026-06-28,sop-full-audit
+2,s9 game alternative,core,P1,homepage/pillar,/,2026-06-28,sop-full-audit
+3,s9game com pk comparison,long-tail,P1,supporting article,/blog/,2026-06-28,sop-full-audit
+4,s9game cc vs s9 game,long-tail,P1,supporting article,/blog/,2026-06-28,sop-full-audit
+5,s9 vs super s9 game,long-tail,P1,supporting article,/blog/,2026-06-28,sop-full-audit
+6,s9 Pakistan,brand,P1,homepage,/,2026-06-28,sop-full-audit
+7,s9 game Pakistan,brand,P1,homepage,/,2026-06-28,sop-full-audit
+8,S9 Online Compare Desk support,brand,P2,support,/support/,2026-06-28,sop-full-audit
+9,S9 Online Compare Desk FAQ,brand,P2,faq,/faq/,2026-06-28,sop-full-audit
+10,s9 online comparison Pakistan,category,P1,hub/category,/online-comparison/,2026-06-28,sop-full-audit
+11,s9 alternative Pakistan,category,P1,hub/category,/alternative/,2026-06-28,sop-full-audit
+12,s9 feature comparison Pakistan,category,P1,hub/category,/feature-comparison/,2026-06-28,sop-full-audit
+13,s9 payment comparison Pakistan,category,P1,hub/category,/payment-comparison/,2026-06-28,sop-full-audit
+14,s9 support comparison Pakistan,category,P1,hub/category,/support-comparison/,2026-06-28,sop-full-audit
+15,what is s9 game alternative in Pakistan,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+16,how to compare s9 game online sites,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+17,is s9game com pk same as s9 game,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+18,how to compare s9 support pages,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+19,which thin download pages fail to rank,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+20,s9 vs b9 game,comparison,P2,comparison/article,/blog/,2026-06-28,sop-full-audit
+21,s9 game online Pakistan Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+22,s9 game online Pakistan PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+23,s9 game online Pakistan Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+24,s9 game online Pakistan mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+25,s9 game online Pakistan H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+26,s9 game online Pakistan 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+27,s9 game online Pakistan guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+28,s9 game online Pakistan checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+29,s9 game online Pakistan fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+30,s9 game online Pakistan not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+31,s9 game online Pakistan latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+32,s9 game online Pakistan support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+33,s9 game alternative Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+34,s9 game alternative PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+35,s9 game alternative Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+36,s9 game alternative mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+37,s9 game alternative H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+38,s9 game alternative 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+39,s9 game alternative guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+40,s9 game alternative checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+41,s9 game alternative fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+42,s9 game alternative not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+43,s9 game alternative latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+44,s9 game alternative support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+45,s9game com pk comparison Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+46,s9game com pk comparison PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+47,s9game com pk comparison Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+48,s9game com pk comparison mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+49,s9game com pk comparison H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+50,s9game com pk comparison 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+51,s9game com pk comparison guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+52,s9game com pk comparison checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+53,s9game com pk comparison fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+54,s9game com pk comparison not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+55,s9game com pk comparison latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+56,s9game com pk comparison support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+57,s9game cc vs s9 game Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+58,s9game cc vs s9 game PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+59,s9game cc vs s9 game Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+60,s9game cc vs s9 game mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+61,s9game cc vs s9 game H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+62,s9game cc vs s9 game 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+63,s9game cc vs s9 game guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+64,s9game cc vs s9 game checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+65,s9game cc vs s9 game fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+66,s9game cc vs s9 game not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+67,s9game cc vs s9 game latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+68,s9game cc vs s9 game support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+69,s9 vs super s9 game Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+70,s9 vs super s9 game PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+71,s9 vs super s9 game Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+72,s9 vs super s9 game mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+73,s9 vs super s9 game H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+74,s9 vs super s9 game 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+75,s9 vs super s9 game guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+76,s9 vs super s9 game checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+77,s9 vs super s9 game fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+78,s9 vs super s9 game not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+79,s9 vs super s9 game latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+80,s9 vs super s9 game support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
